@@ -27,7 +27,7 @@ jobs:
        - name: cloning repo
          continue-on-error: true
          run: |
-           git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} yukkimusicbot
+           git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} gsweqq11
        - name: YukkiMusicBot
          timeout-minutes: 350
          continue-on-error: true

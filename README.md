@@ -1,6 +1,5 @@
-# HOW TO HOST KILLERX MUSIC ON GITHUB WORKFLOWS
+# HOW TO HOST YukkiMusicBot ON GITHUB WORKFLOWS
 
-[![TELEGRAM](https://img.shields.io/badge/Rendy%20X-738BD7.svg?style=for-the-badge)](https://t.me/rencprx)
 # SECRETS
 ```  
 CREDS

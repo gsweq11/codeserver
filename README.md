@@ -10,6 +10,6 @@ GH_TOKEN
 ```  
 # Variables
 
-CLICK [ENV](https://github.com/TeamKillerX/Music-Creds) KillerXMusic
+CLICK [ENV](https://github.com/TeamYukki/YukkiMusicBot) YukkiMusicBot
   
   

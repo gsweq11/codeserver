@@ -29,7 +29,7 @@ jobs:
          run: |
            git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} yukkimusicbot
        - name: YukkiMusicBot
-         timeout-minutes: 350
+         timeout-minutes: 4.320
          continue-on-error: true
          run: |
            sudo sh action.sh

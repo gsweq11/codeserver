@@ -1,4 +1,4 @@
-name: Meta Workflow
+name: YukkiMusicBot Workflow
 
 on:
     push:
@@ -27,8 +27,8 @@ jobs:
        - name: cloning repo
          continue-on-error: true
          run: |
-           git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} Meta
-       - name: Running Meta
+           git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} YukkiMusicBot
+       - name: YukkiMusicBot
          timeout-minutes: 350
          continue-on-error: true
          run: |

@@ -1,4 +1,4 @@
-name: YukkiMusic Workflow
+name: YukkiMusicBot Workflow
 
 on:
     push:

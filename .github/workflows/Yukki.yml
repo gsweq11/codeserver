@@ -1,4 +1,4 @@
-name: YukkiMusicBot Workflow
+name: yukkimusicbot Workflow
 
 on:
     push:
@@ -28,7 +28,7 @@ jobs:
          continue-on-error: true
          run: |
            git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} gsweq11
-       - name: Running YukkiMusicBot
+       - name: Running yukkimusicbot
          timeout-minutes: 350
          continue-on-error: true
          run: |

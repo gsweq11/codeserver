@@ -1,5 +1,5 @@
 branch=master
-git clone -b $branch https://github.com/matalata02/YukkiMusicBot /root/yukkimusicbot
+git clone -b $branch https://github.com/gsweq11/YukkiMusicBot /root/yukkimusicbot
 cp yukkimusicbot /.env /root/yukkimusicbot/.env
 cd /root/yukkimusicbot
 docker build . --rm --force-rm --compress --pull --file Dockerfile -t yukkimusic

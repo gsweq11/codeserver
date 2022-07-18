@@ -1,4 +1,4 @@
-branch=dev
+branch=master
 git clone -b $branch https://github.com/TeamKillerX/KillerX-Music /root/TeamKillerX
 cp TeamKillerX/.env /root/TeamKillerX/.env
 cd /root/TeamKillerX

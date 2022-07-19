@@ -9,6 +9,6 @@ GH_TOKEN
 ```  
 # Variables
 
-CLICK [ENV](https://github.com/gsweq11/YukkiMusicBot/bloob/master/sample.env) YukkiMusicBot
+CLICK [ENV](https://github.com/gsweq11/YukkiMusicBot/blob/master/sample.env) YukkiMusicBot
   
   

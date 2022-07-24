@@ -5,5 +5,5 @@
 CREDS
 GitHubName = Your GitHub username
 GitHubMail = Your GitHub E-mail
-GH_TOKEN
+GH_TOKEN = Your GitHub token
 ```  
